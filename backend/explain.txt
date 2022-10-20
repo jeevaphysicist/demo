@@ -1,0 +1,9 @@
+ CURD => create read update delete
+
+ http => GET POST PUT DELETE 
+
+GET - read 
+
+POST - create
+
+put - update
