@@ -8,6 +8,8 @@ POST - create
 
 put - update
 
+DELETE - delete
+
 
 GIT COMMANDS 
 
