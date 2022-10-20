@@ -7,3 +7,20 @@ GET - read
 POST - create
 
 put - update
+
+
+GIT COMMANDS 
+
+
+git clone "url link "
+
+copy and you work
+
+git add .
+
+git commit -m "submission"
+
+git push origin main 
+
+
+
