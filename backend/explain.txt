@@ -25,4 +25,13 @@ git commit -m "submission"
 git push origin main 
 
 
+MVC - model view controller
+
+model -data structure handle
+
+controller - logics functions 
+
+
+
+
 
