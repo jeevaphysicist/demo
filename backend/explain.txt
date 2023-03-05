@@ -31,7 +31,17 @@ model -data structure handle
 
 controller - logics functions 
 
+view - front-end monitor
 
 
+
+data = {
+    user:"jeeva"
+}
+
+fetch("/api",{method:"GET"});
+
+fetch("/api/post",{method:"POST",
+       headers:{"Content-Type"}})
 
 
